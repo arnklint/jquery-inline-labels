@@ -1,0 +1,17 @@
+jQuery.labelize - Move labels inside input fields
+Jonas Arnklint, http://starksignal.com
+Released into the public domain
+Date: 15th January 2009
+@author Jonas Arnklint
+@version 1.0
+
+
+Basic calling syntax: $("input").labelize();
+The only option in use: $("input").labelize({ labelledClass: 'labeled_field' });
+Defaults to taking the in-field label from the field's title attribute
+
+The only setting is optional and goes by the name of: 
+
+  labelledClass
+    a class that will be applied to the input field when it contains the
+     label and removed when it contains user input. Defaults to 'labeled'.
