@@ -17,4 +17,4 @@ The only setting is optional and goes by the name of:
      label and removed when it contains user input. Defaults to 'labeled'.
      
 # Inline label plugin for jQuery
-Used for a first version of RevRise [Form Analytics](http://revrise.com)
+Used for a first version of RevRise Form Analytics http://revrise.com
